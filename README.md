@@ -1,6 +1,6 @@
 ## CRUD boilerplate API made with Go
 
-## To Test, Run in termainal
+## To Test, Run in terminal
 `go build`
 `./<path-name>`
 # or 
